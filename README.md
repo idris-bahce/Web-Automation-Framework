@@ -1,5 +1,6 @@
 The Web Automation Framework is a comprehensive toolset designed to simplify and accelerate the process of automating web applications. It provides a robust and flexible architecture that enables developers and QA engineers to write efficient and maintainable automated tests.
 I have used the framework testing exercise web-site: https://automationexercise.com/
+
 Features
 Cross-Browser Compatibility: The framework supports multiple web browsers, allowing you to execute your tests on popular browsers such as Chrome, Firefox, and Safari.
 
