@@ -1,4 +1,5 @@
 The Web Automation Framework is a comprehensive toolset designed to simplify and accelerate the process of automating web applications. It provides a robust and flexible architecture that enables developers and QA engineers to write efficient and maintainable automated tests.
+
 I have used the framework testing exercise web-site: https://automationexercise.com/
 
 Features
@@ -13,3 +14,4 @@ Parallel Execution: Execute tests in parallel across multiple threads or machine
 Reporting and Logging: Generate comprehensive test reports and detailed logs for better visibility into test results and troubleshooting.
 
 Support for Continuous Integration: Seamlessly integrate the framework with popular CI/CD platforms, enabling continuous testing as part of your development pipeline.
+For the source of framework please refer to: https://github.com/inar-academy/inar-automation-framework.git
